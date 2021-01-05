@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/RundgangTest\/Floor1\/floor1.json"
+                 "value":"..\/RundgangTest\/ASL1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
